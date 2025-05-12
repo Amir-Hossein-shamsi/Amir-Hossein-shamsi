@@ -14,4 +14,4 @@ DocRetriever: Document search API using Elasticsearch and Pinecone
 
 📫 Reach me at: shamsiamirhossein1@gmail.com
 
-⚡ Fun fact: I automated my morning coffee maker with a Raspberry Pi and Python ☕️
+⚡ Fun fact: I built a RAG system that can source answers from my personal knowledge base and respond in under 200ms
