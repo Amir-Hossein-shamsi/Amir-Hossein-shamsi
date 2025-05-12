@@ -1,3 +1,9 @@
+
+<p align="center">
+  <!-- Relative path to the banner you just uploaded -->
+  <img src="banner.png" alt="Python Dev Banner" width="100%" />
+</p>
+
 I’m a passionate Python developer building scalable backends, data-driven applications, and automation tools. I love optimizing code, designing clean architectures, and sharing knowledge through open-source contributions.
 
 🔭 Currently building: LLM-based chatbots & Retrieval-Augmented Generation (RAG) systems
