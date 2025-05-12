@@ -8,6 +8,6 @@ I’m a passionate Python developer building scalable backends, data-driven appl
 
 💬 Ask me about: Python idioms, async programming, and CI/CD pipelines
 
-📫 Reach me at: youremail@example.com
+📫 Reach me at: shamsiamirhossein1@gmail.com
 
 ⚡ Fun fact: I taught myself to code by automating my morning coffee maker ☕️
