@@ -24,7 +24,7 @@ DocRetriever: Document search API using Elasticsearch and Pinecone
 
 ### 🛠️ Tech Stack Wizardry
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-Machine Learning ![ML](https://img.shields.io/badge/-ML-FF6F00?style=flat-square) ![75%](https://progress-bar.dev/75/)
+![ML](https://img.shields.io/badge/-ML-FF6F00?style=flat-square) ![75%](https://progress-bar.dev/75/)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
