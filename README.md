@@ -24,6 +24,9 @@ DocRetriever: Document search API using Elasticsearch and Pinecone
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amir-Hossein-shamsi&layout=compact&theme=radical)
 
+![Profile Views](https://komarev.com/ghpvc/?username=Amir-Hossein-shamsi&color=red)
+![Followers](https://img.shields.io/github/followers/Amir-Hossein-shamsi?label=Followers&style=social)
+
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amir-Hossein-shamsi&show_icons=true&theme=radical)
