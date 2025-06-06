@@ -4,6 +4,9 @@
   <img src="banner.png" alt="Python Dev Banner" width="100%" />
 </p>
 
+![Profile Views](https://komarev.com/ghpvc/?username=Amir-Hossein-shamsi&color=red)
+![Followers](https://img.shields.io/github/followers/Amir-Hossein-shamsi?label=Followers&style=social)
+
 I’m a passionate Python developer building scalable backends, data-driven applications, and automation tools. I love optimizing code, designing clean architectures, and sharing knowledge through open-source contributions.
 
 🔭 Currently building: LLM-based chatbots & Retrieval-Augmented Generation (RAG) systems
@@ -23,9 +26,6 @@ DocRetriever: Document search API using Elasticsearch and Pinecone
 ⚡ Fun fact: I built a RAG system that can source answers from my personal knowledge base and respond in under 200ms
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amir-Hossein-shamsi&layout=compact&theme=radical)
-
-![Profile Views](https://komarev.com/ghpvc/?username=Amir-Hossein-shamsi&color=red)
-![Followers](https://img.shields.io/github/followers/Amir-Hossein-shamsi?label=Followers&style=social)
 
 
 
