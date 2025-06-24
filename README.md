@@ -23,7 +23,6 @@ DocRetriever: Document search API using Elasticsearch and Pinecone
 
 📫 Reach me at: shamsiamirhossein1@gmail.com
 
-⚡ Fun fact: I built a RAG system that can source answers from my personal knowledge base and respond in under 200ms
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amir-Hossein-shamsi&layout=compact&theme=radical)
 
