@@ -28,8 +28,6 @@
 
 ## 🔥 Featured LLM Projects
 
-### 🤖 ChatFlux
-> A custom conversational agent powered by LangChain and OpenAI embeddings.
 
 ### 📚 DocRetriever
 > Document search API integrating Elasticsearch and Pinecone for semantic retrieval.
