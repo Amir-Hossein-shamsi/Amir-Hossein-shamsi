@@ -4,8 +4,6 @@
   <img src="banner.png" alt="Python Dev Banner" width="100%" />
 </p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Amir-Hossein-shamsi&color=red)
-![Followers](https://img.shields.io/github/followers/Amir-Hossein-shamsi?label=Followers&style=social)
 
 I’m a passionate Python developer building scalable backends, data-driven applications, and automation tools. I love optimizing code, designing clean architectures, and sharing knowledge through open-source contributions.
 
