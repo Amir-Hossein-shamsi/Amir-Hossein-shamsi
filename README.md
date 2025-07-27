@@ -1,53 +1,83 @@
-
 <p align="center">
-  <!-- Relative path to the banner you just uploaded -->
-  <img src="banner.png" alt="Python Dev Banner" width="100%" />
+  <img src="banner.png" alt="Python Dev Banner" width="100%"/>
 </p>
 
+<h1 align="center">Hi there, I'm Amir Hossein Shamsi 👨‍💻</h1>
+<h3 align="center">Python Developer | Backend Engineer | ML Enthusiast</h3>
 
-I’m a passionate Python developer building scalable backends, data-driven applications, and automation tools. I love optimizing code, designing clean architectures, and sharing knowledge through open-source contributions.
+<p align="center">
+  Passionate about building scalable backends, data-driven applications, and intelligent automation tools.
+  I thrive on optimizing performance, crafting clean architectures, and contributing to open-source ecosystems.
+</p>
 
-🔭 Currently building: LLM-based chatbots & Retrieval-Augmented Generation (RAG) systems
+---
 
-🌱 Learning: Deep learning frameworks, vector databases, and container orchestration
+### 🚀 Currently Building
+- **LLM-based Chatbots** with LangChain & OpenAI
+- **Retrieval-Augmented Generation (RAG)** systems for intelligent search
 
-💬 Ask me about: Flask, FastAPI, async Python, RAG pipelines, and prompt engineering
+### 🌱 Learning & Exploring
+- Deep learning frameworks (PyTorch, TensorFlow)
+- Vector databases (Pinecone, FAISS)
+- Container orchestration with Kubernetes & Docker
 
-🚀 Featured LLM Projects:
+### 💬 Ask Me About
+`Flask` • `FastAPI` • `Async Python` • `RAG Pipelines` • `Prompt Engineering`
 
-ChatFlux: Custom conversational agent with LangChain & OpenAI embeddings
+---
 
-DocRetriever: Document search API using Elasticsearch and Pinecone
+## 🔥 Featured LLM Projects
 
-📫 Reach me at: shamsiamirhossein1@gmail.com
+### 🤖 ChatFlux
+> A custom conversational agent powered by LangChain and OpenAI embeddings.
 
+### 📚 DocRetriever
+> Document search API integrating Elasticsearch and Pinecone for semantic retrieval.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amir-Hossein-shamsi&layout=compact&theme=radical)
+---
 
+## 📫 Let's Connect
+📧 **Email:** [shamsiamirhossein1@gmail.com](mailto:shamsiamirhossein1@gmail.com)
 
+---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amir-Hossein-shamsi&show_icons=true&theme=radical)
+## 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Amir-Hossein-shamsi&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amir-Hossein-shamsi&layout=compact&theme=radical" alt="Top Langs" />
+</p>
 
-### Core ML 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+---
 
-### Data Tools
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+## 🧠 Core ML Stack
 
-### 🛠️ Tech Stack Wizardry
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
-![ONNX](https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+</p>
 
+## 🧰 Data Tools
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+</p>
+
+## 🛠️ Tech Stack Wizardry
+
+<p align="center">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" />
+  <img src="https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+</p>
