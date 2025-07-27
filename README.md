@@ -26,14 +26,6 @@
 
 ---
 
-## 🔥 Featured LLM Projects
-
-
-### 📚 DocRetriever
-> Document search API integrating Elasticsearch and Pinecone for semantic retrieval.
-
----
-
 ## 📫 Let's Connect
 📧 **Email:** [shamsiamirhossein1@gmail.com](mailto:shamsiamirhossein1@gmail.com)
 
