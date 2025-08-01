@@ -1,73 +1,102 @@
+
 <p align="center">
-  <img src="banner.png" alt="Python Dev Banner" width="100%"/>
+  <img src="banner.png" alt="Python Developer Banner" width="100%" />
 </p>
 
-<h1 align="center">Hi there, I'm Amir Hossein Shamsi 👨‍💻</h1>
-<h3 align="center">Python Developer | Backend Engineer | ML Enthusiast</h3>
+<h1 align="center">👋 Hi, I'm Amir Hossein Shamsi</h1>
+<h3 align="center">💻 Python Developer | 🧠 ML Enthusiast | ⚙️ Backend Engineer</h3>
 
 <p align="center">
-  Passionate about building scalable backends, data-driven applications, and intelligent automation tools.
-  I thrive on optimizing performance, crafting clean architectures, and contributing to open-source ecosystems.
-</p>
-
----
-
-### 🚀 Currently Building
-- **LLM-based Chatbots** with LangChain & OpenAI
-- **Retrieval-Augmented Generation (RAG)** systems for intelligent search
-
-### 🌱 Learning & Exploring
-- Deep learning frameworks (PyTorch, TensorFlow)
-- Vector databases (Pinecone, FAISS)
-- Container orchestration with Kubernetes & Docker
-
-### 💬 Ask Me About
-`Flask` • `FastAPI` • `Async Python` • `RAG Pipelines` • `Prompt Engineering`
-
----
-
-## 📫 Let's Connect
-📧 **Email:** [shamsiamirhossein1@gmail.com](mailto:shamsiamirhossein1@gmail.com)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amir-Hossein-shamsi&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amir-Hossein-shamsi&layout=compact&theme=radical" alt="Top Langs" />
+  I'm passionate about building high-performance systems, AI-powered solutions, and scalable backend architectures.<br />
+  I thrive in clean code, async systems, and collaborative open-source projects.
 </p>
 
 ---
 
-## 🧠 Core ML Stack
+## 🚧 Currently Building
+
+- 🤖 **LLM-Powered Chatbots** with `LangChain` & `OpenAI`
+- 🔍 **RAG Pipelines** for contextual search and intelligent retrieval
+- 🔧 Tools that combine **Machine Learning** with robust **backend engineering**
+
+---
+
+## 🌱 Exploring & Growing
+
+- 📚 Deep Learning: `PyTorch`, `TensorFlow`
+- 🔍 Vector Search: `FAISS`, `Pinecone`
+- 🐳 DevOps Tools: `Docker`, `Kubernetes`, `CI/CD`
+
+---
+
+## 💡 Ask Me About
+
+```python
+FastAPI | Flask | AsyncIO | RAG Pipelines | Prompt Engineering | ML APIs | Postgres & Redis
+````
+
+---
+
+## 📬 Get in Touch
+
+* 📧 [shamsiamirhossein1@gmail.com](mailto:shamsiamirhossein1@gmail.com)
+
+
+---
+
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Amir-Hossein-shamsi&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
-
-## 🧰 Data Tools
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amir-Hossein-shamsi&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-## 🛠️ Tech Stack Wizardry
+---
+
+## 🧠 Machine Learning Toolbox
 
 <p align="center">
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" />
-  <img src="https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
 </p>
+
+---
+
+## 📊 Data Science & Computer Vision
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+</p>
+
+---
+
+## 🛠️ Backend & DevOps Toolkit
+
+<p align="center">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white" />
+
+</p>
+
+---
+
+## ✨ Fun Facts
+* 🔁 Obsessed with clean code, async IO, and reproducible ML workflows.
+* 🌍 Always looking for opportunities to collaborate & contribute.
+
+---
+
+> *“Great code is like poetry: it’s elegant, precise, and communicates clearly.”*
+
