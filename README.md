@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="amir.png" alt="Python Developer Banner" width="50%" />
+  <img src="amir.png" alt="Python Developer Banner" width="25%" />
 </p>
 
 <h1 align="center">👋 Hi, I'm Amir Hossein Shamsi</h1>
