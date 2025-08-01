@@ -1,8 +1,4 @@
 
-<p align="center">
-  <img src="amir.png" alt="Python Developer Banner" width="25%" />
-</p>
-
 <h1 align="center">👋 Hi, I'm Amir Hossein Shamsi</h1>
 <h3 align="center">💻 Python Developer | 🧠 ML Enthusiast | ⚙️ Backend Engineer</h3>
 
