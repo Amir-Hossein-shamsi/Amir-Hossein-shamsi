@@ -23,34 +23,12 @@
 - 🔍 Vector Search: `FAISS`, `Pinecone`
 - 🐳 DevOps Tools: `Docker`, `Kubernetes`, `CI/CD`
 
----
-
-💡 Ask Me About
-<p align="center"> <img src="https://img.shields.io/badge/FastAPI-%23009688?style=for-the-badge&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/Flask-%23000000?style=for-the-badge&logo=flask&logoColor=white" /> <img src="https://img.shields.io/badge/AsyncIO-%2300BFFF?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/RAG_Pipelines-%237E57C2?style=for-the-badge&logo=langchain&logoColor=white" /> <img src="https://img.shields.io/badge/Prompt_Engineering-%23F9A825?style=for-the-badge&logo=openai&logoColor=black" /> <img src="https://img.shields.io/badge/PostgreSQL-%23316192?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Redis-%23DC382D?style=for-the-badge&logo=redis&logoColor=white" /> </p>
-
----
 
 ## 📬 Get in Touch
 
 * 📧 [shamsiamirhossein1@gmail.com](mailto:shamsiamirhossein1@gmail.com)
 
-
----
-
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amir-Hossein-shamsi&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amir-Hossein-shamsi&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## 🧠 Machine Learning Toolbox
-
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
