@@ -1,4 +1,4 @@
-# 👋 Hello,I'm AmirHossein Shamsi
+# 👋 Hello, I'm AmirHossein Shamsi
 
 **AI Engineer & Python Developer**  
 
@@ -20,6 +20,7 @@ I'm a passionate developer with expertise in building **real-time systems, AI-po
 
 ### 🌐 **Web Development**
 ![FastAPI](https://img.shields.io/badge/FastAPI-Async_APIs-009688?logo=fastapi&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-API_Query-E10098?logo=graphql&logoColor=white)
 ![WebSockets](https://img.shields.io/badge/WebSockets-Real--time-010101?logo=socket.io&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-Interactive_Apps-FF4B4B?logo=streamlit&logoColor=white)
 
@@ -32,6 +33,7 @@ I'm a passionate developer with expertise in building **real-time systems, AI-po
 ![MongoDB](https://img.shields.io/badge/MongoDB-NoSQL-47A248?logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-Pub/Sub-DC382D?logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-Containerization-2496ED?logo=docker&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-Data_Validation-E92063?logo=pydantic&logoColor=white)
 
 ---
 
@@ -76,6 +78,16 @@ I'm a passionate developer with expertise in building **real-time systems, AI-po
 - Developed multi-platform scraping agents for LinkedIn and Twitter
 - Designed modular architecture for easy extension to new platforms
 - Implemented AI-generated professional summaries and fun facts
+
+### 🎨 [Art Gallery API](https://github.com/Amir-Hossein-shamsi/Art-gallery-api)
+**GraphQL-based collaborative art gallery backend**
+
+```python
+# Stack: FastAPI + Ariadne (GraphQL) + MongoDB + Pydantic
+```
+- Designed GraphQL schema for flexible artwork and comment management
+- Implemented real-time CRUD operations with MongoDB
+- Containerized application with Docker for easy deployment
 
 ---
 
