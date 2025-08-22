@@ -1,73 +1,110 @@
+# 👋 Hello,I'm AmirHossein Shamsi
 
-<h1 align="center">👋 Hi, I'm Amir Hossein Shamsi</h1>
-<h3 align="center">💻 Python Developer | 🧠 ML Enthusiast | ⚙️ Backend Engineer</h3>
+**AI Engineer & Python Developer**  
 
-<p align="center">
-  I'm passionate about building high-performance systems, AI-powered solutions, and scalable backend architectures.<br />
-  I thrive in clean code, async systems, and collaborative open-source projects.
-</p>
+## 🚀 About Me
 
----
+I'm a passionate developer with expertise in building **real-time systems, AI-powered applications, and geospatial solutions**.
 
-## 🚧 Currently Building
-
-- 🤖 **LLM-Powered Chatbots** with `LangChain` & `OpenAI`
-- 🔍 **RAG Pipelines** for contextual search and intelligent retrieval
-- 🔧 Tools that combine **Machine Learning** with robust **backend engineering**
+> *"I don't just write code—I architect experiences that solve real-world problems."*
 
 ---
 
-## 🌱 Exploring & Growing
+## 🛠️ Technical Arsenal
 
-- 📚 Deep Learning: `PyTorch`, `TensorFlow`
-- 🔍 Vector Search: `FAISS`, `Pinecone`
-- 🐳 DevOps Tools: `Docker`, `Kubernetes`, `CI/CD`
+### 🤖 **Artificial Intelligence**
+![Python](https://img.shields.io/badge/Python-Expert-3776AB?logo=python&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/ML-RAG_Systems-FF6F00?logo=scikitlearn&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-Agents-00ADD8?logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-GPT_4o-412991?logo=openai&logoColor=white)
 
+### 🌐 **Web Development**
+![FastAPI](https://img.shields.io/badge/FastAPI-Async_APIs-009688?logo=fastapi&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-Real--time-010101?logo=socket.io&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-Interactive_Apps-FF4B4B?logo=streamlit&logoColor=white)
 
-## 📬 Get in Touch
+### 🗺️ **Geospatial & Visualization**
+![Folium](https://img.shields.io/badge/Folium-Interactive_Maps-77B829?logo=leaflet&logoColor=white)
+![OSRM](https://img.shields.io/badge/OSRM-Route_Optimization-000000?logo=openstreetmap&logoColor=white)
+![GeoPandas](https://img.shields.io/badge/GeoPandas-Spatial_Analysis-150458?logo=pandas&logoColor=white)
 
-* 📧 [shamsiamirhossein1@gmail.com](mailto:shamsiamirhossein1@gmail.com)
-
-## 🧠 Machine Learning Toolbox
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
-</p>
-
----
-
-## 📊 Data Science & Computer Vision
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
-</p>
+### 🗃️ **Databases & Infrastructure**
+![MongoDB](https://img.shields.io/badge/MongoDB-NoSQL-47A248?logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-Pub/Sub-DC382D?logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-Containerization-2496ED?logo=docker&logoColor=white)
 
 ---
 
-## 🛠️ Backend & DevOps Toolkit
+## 🌟 Featured Projects
 
-<p align="center">
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white" />
+### 🚚 [Real-Time Geo-Tracking Application](https://github.com/Amir-Hossein-shamsi/Real-Time-Geo-Tracking-Application)
+**Live package tracking with dynamic routing and WebSocket communication**
 
-</p>
+```python
+# Architecture: FastAPI + MongoDB + Redis + Folium + OSRM
+```
+- Implemented real-time location updates using WebSockets and Redis Pub/Sub
+- Developed intelligent route optimization with dynamic waypoint insertion
+- Created interactive map visualizations with live animation
+
+### 🥑 [VitaGuide Nutrition Assistant](https://github.com/Amir-Hossein-shamsi/vitaguide)
+**AI-powered nutrition guidance backed by scientific articles**
+
+```python
+# Technology: RAG + GPT-4 + Pinecone + Streamlit
+```
+- Built Retrieval-Augmented Generation system processing 1,367+ nutrition articles
+- Engineered content ingestion pipeline from FitDay.com with fair use compliance
+- Designed intuitive UI for evidence-based dietary recommendations
+
+### 🗺️ [TehranNavigator](https://github.com/Amir-Hossein-shamsi/TehranNavigator)
+**Interactive route planning using real street network data**
+
+```python
+# Stack: OSMnx + NetworkX + ipyleaflet + geopy
+```
+- Implemented geocoding and shortest-path algorithms for Tehran's road network
+- Created interactive Jupyter widgets for seamless user experience
+- Visualized optimal routes with custom markers and path styling
+
+### ❄️ [Icebreaker AI](https://github.com/Amir-Hossein-shamsi/icebreaker)
+**AI-powered profile summarization from social media data**
+
+```python
+# Framework: LangChain + Groq API + Custom Agents
+```
+- Developed multi-platform scraping agents for LinkedIn and Twitter
+- Designed modular architecture for easy extension to new platforms
+- Implemented AI-generated professional summaries and fun facts
 
 ---
 
-## ✨ Fun Facts
-* 🔁 Obsessed with clean code, async IO, and reproducible ML workflows.
-* 🌍 Always looking for opportunities to collaborate & contribute.
+## 📊 Development Philosophy
+
+```mermaid
+graph LR
+    A[Real-World Problem] --> B[Architectural Design]
+    B --> C[Async Implementation]
+    C --> D[Real-Time Features]
+    D --> E[Beautiful Visualization]
+    E --> F[Impactful Solution]
+```
+
+I believe in building systems that are:
+- **🔧 Robust**: Error-resistant with proper logging and monitoring
+- **⚡ Efficient**: Optimized performance with async/await patterns  
+- **🎨 User-Centric**: Intuitive interfaces with meaningful visualizations
+- **📈 Scalable**: Designed for growth with modular architecture
 
 ---
 
-> *“Great code is like poetry: it’s elegant, precise, and communicates clearly.”*
+## 📫 Let's Connect!
 
+I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision.
+
+[![Email](https://img.shields.io/badge/Email-shamsiamirhossein1@gmail.com-D14836?logo=gmail&logoColor=white)](mailto:shamsiamirhossein1@gmail.com)
+---
+> "Code is poetry—every line should have purpose, every function should tell a story,  
+> and every system should solve a problem worth solving."
+
+*Built with ❤️ and 🐍 Python*
