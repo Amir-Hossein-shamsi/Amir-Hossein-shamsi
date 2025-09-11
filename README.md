@@ -119,4 +119,4 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
 > "Code is poetry—every line should have purpose, every function should tell a story,  
 > and every system should solve a problem worth solving."
 
-*Built with ❤️ and 🐍 Python*
+
