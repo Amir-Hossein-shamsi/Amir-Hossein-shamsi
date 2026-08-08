@@ -1,6 +1,6 @@
 # 👋 Hello, I'm AmirHossein Shamsi
 
-**AI Engineer & Python Developer**  
+**AI Engineer & Software Engineer**  
 
 ## 🚀 About Me
 
