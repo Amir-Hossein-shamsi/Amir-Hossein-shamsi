@@ -1,3 +1,10 @@
+<!-- Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:8b5cf6&height=200&section=header&text=AmirHossein%20Shamsi&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Backend%20Engineer%20%7C%20Geospatial%20Systems&descAlignY=58&descSize=18" />
+<!-- Typing SVG -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=AI+Engineer;Backend+Engineer;Geospatial+Systems;LLM+Agents+%26+MCP" />
+</p>
+
 # 👋 Hi, I'm AmirHossein Shamsi
 
 ### AI Engineer · Backend Engineer · Geospatial & Intelligent Systems
@@ -6,24 +13,11 @@ I build **AI-powered applications, backend services, and intelligent geospatial 
 
 ---
 
-## ⚡ What I Work With
-
-| Area | Technologies |
-|------|--------------|
-| 🤖 **AI / ML** | PyTorch · Scikit-learn · NLP · Deep Learning · RAG |
-| 🧠 **LLM & Agents** | LangChain · LangGraph · MCP · AI Agents · OpenAI |
-| 🐍 **Backend** | Python · FastAPI · AsyncIO · REST APIs · WebSockets |
-| 💻 **Enterprise Backend** | .NET · Django · FastAPI |
-| 🗺️ **Geospatial** | OpenStreetMap · OSRM · GeoPandas · OSMnx · NetworkX · MapLibre |
-| 🚚 **Routing & Optimization** | TSP · Route Optimization · Traffic Modeling |
-| 🔎 **Search & Data** | Elasticsearch · MongoDB · Redis · Vector Search |
-| 🐹 **Other Languages** | Go · C# |
-| 🐳 **Infrastructure** | Docker · Linux · Git · CI/CD |
-| 📱 **Development** | REST · GraphQL · WebSockets · Microservices |
-
----
-
 ## 🧰 Technical Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,pytorch,fastapi,dotnet,go,docker,redis,mongodb,elasticsearch,linux,git,graphql" />
+</p>
 
 ### Languages
 
@@ -74,6 +68,28 @@ I build **AI-powered applications, backend services, and intelligent geospatial 
 <img src="https://img.shields.io/badge/NetworkX-333333?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/MapLibre-396CB2?style=for-the-badge"/>
 </p>
+
+---
+
+## ⚡ What I Work With
+
+<details>
+<summary>Click to expand</summary>
+
+| Area | Technologies |
+|------|--------------|
+| 🤖 **AI / ML** | PyTorch · Scikit-learn · NLP · Deep Learning · RAG |
+| 🧠 **LLM & Agents** | LangChain · LangGraph · MCP · AI Agents · OpenAI |
+| 🐍 **Backend** | Python · FastAPI · AsyncIO · REST APIs · WebSockets |
+| 💻 **Enterprise Backend** | .NET · Django · FastAPI |
+| 🗺️ **Geospatial** | OpenStreetMap · OSRM · GeoPandas · OSMnx · NetworkX · MapLibre |
+| 🚚 **Routing & Optimization** | TSP · Route Optimization · Traffic Modeling |
+| 🔎 **Search & Data** | Elasticsearch · MongoDB · Redis · Vector Search |
+| 🐹 **Other Languages** | Go · C# |
+| 🐳 **Infrastructure** | Docker · Linux · Git · CI/CD |
+| 📱 **Development** | REST · GraphQL · WebSockets · Microservices |
+
+</details>
 
 ---
 
@@ -153,6 +169,12 @@ work together as one reliable system.
 <p>
 <a href="mailto:shamsiamirhossein1@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://github.com/Amir-Hossein-shamsi">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://linkedin.com/in/amirhossein-s-b2b97b38b">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 </p>
 
