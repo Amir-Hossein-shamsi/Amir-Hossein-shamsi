@@ -242,4 +242,4 @@ flowchart LR
 </p>
 
 <!-- ══════════════════════════ FOOTER ══════════════════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,50:3b82f6,100:06b6d4&height=140&section=footer&text=Thanks%20for%20stopping%20by!&fontSize=24&fontColor=ffffff&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,50:3b82f6,100:06b6d4&height=140&section=footer&fontSize=24&fontColor=ffffff&animation=fadeIn" />
