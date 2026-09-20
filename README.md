@@ -13,11 +13,11 @@ I build **AI-powered applications, backend services, and intelligent geospatial 
 | 🤖 **AI / ML** | PyTorch · Scikit-learn · NLP · Deep Learning · RAG |
 | 🧠 **LLM & Agents** | LangChain · LangGraph · MCP · AI Agents · OpenAI |
 | 🐍 **Backend** | Python · FastAPI · AsyncIO · REST APIs · WebSockets |
-| 💻 **Enterprise Backend** | .NET · C# · Java · Spring Boot · JPA / Hibernate |
+| 💻 **Enterprise Backend** | .NET · Django · FastAPI |
 | 🗺️ **Geospatial** | OpenStreetMap · OSRM · GeoPandas · OSMnx · NetworkX · MapLibre |
 | 🚚 **Routing & Optimization** | TSP · Route Optimization · Traffic Modeling |
 | 🔎 **Search & Data** | Elasticsearch · MongoDB · Redis · Vector Search |
-| 🐹 **Other Languages** | Go · Java · C# |
+| 🐹 **Other Languages** | Go · C# |
 | 🐳 **Infrastructure** | Docker · Linux · Git · CI/CD |
 | 📱 **Development** | REST · GraphQL · WebSockets · Microservices |
 
@@ -29,7 +29,6 @@ I build **AI-powered applications, backend services, and intelligent geospatial 
 
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white"/>
 <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
 </p>
@@ -50,7 +49,6 @@ I build **AI-powered applications, backend services, and intelligent geospatial 
 <p>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
 <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
 <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
 <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white"/>
 </p>
@@ -98,7 +96,6 @@ Backend Engineering
         │
         ├── FastAPI
         ├── .NET
-        ├── Java / Spring
         └── Go
 
 Geospatial Systems
