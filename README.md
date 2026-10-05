@@ -1,5 +1,5 @@
 <!-- ══════════════════════════ HEADER ══════════════════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:3b82f6,100:8b5cf6&height=230&section=header&text=AmirHossein%20Shamsi&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=AI%20Engineer%20%7C%20fullstach%20developer%20%7C%20Geospatial%20Systems&descAlignY=53&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:3b82f6,100:8b5cf6&height=230&section=header&text=AmirHossein%20Shamsi&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=AI%20Engineer%20%7C%20full-stack%20developer%20%7C%20Geospatial%20Systems&descAlignY=53&descSize=18" />
 
 <!-- ⌨️ Typing animation -->
 <p align="center">
