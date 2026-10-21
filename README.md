@@ -1,4 +1,8 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:3b82f6,100:8b5cf6&height=230&section=header&text=AmirHossein%20Shamsi&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=AI%20Engineer%20%7C%20full-stack%20developer%20%7C%20Geospatial%20Systems&descAlignY=53&descSize=18" alt="AmirHossein Shamsi header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&color=0:0f0c29,50:302b63,100:24243e&height=260&section=header&text=AmirHossein%20Shamsi&fontSize=56&fontColor=00f5d4&fontAlignY=38&animation=fadeIn" alt="AmirHossein Shamsi header" />
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4500&pause=1200&color=00F5D4&center=true&vCenter=true&width=700&lines=AI+Engineer+%7C+Backend+Architect;LLM+Agents+%26+MCP+%7C+RAG;Geospatial+%26+Industrial+Telemetry;Building+intelligent+systems+that+run+reliably" alt="Typing animation" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=3B82F6&center=true&vCenter=true&width=650&lines=%E2%9C%A8+Building+intelligent+systems...;%F0%9F%A4%96+AI+Engineer;%E2%9A%99%EF%B8%8F+Backend+Architect;%F0%9F%97%BA%EF%B8%8F+Geospatial+%26+Routing;%F0%9F%A7%A0+LLM+Agents+%26+MCP" alt="Typing SVG" />
@@ -210,4 +214,4 @@ A biomedical RAG assistant that extracts and synthesizes nutritional data from c
   Keep the engineering solid.”</i>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,50:3b82f6,100:06b6d4&height=140&section=footer&fontSize=24&fontColor=ffffff&animation=fadeIn" alt="footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00f5d4,100:7c3aed&height=110&section=footer&animation=fadeIn" alt="footer" />
