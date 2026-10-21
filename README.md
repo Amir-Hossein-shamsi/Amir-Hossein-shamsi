@@ -51,16 +51,17 @@ A backend system for monitoring CNC and industrial machines. It ingests telemetr
 
 An administrator workspace for creating script jobs, scheduling their execution, and inspecting results.
 
-```mermaid
-flowchart LR
-    UI["🖥️ Taskflow UI<br/>(Next.js)"] --> API["🔌 Go API"]
-    API --> PG[("🐘 PostgreSQL")]
-    SCH["⏱️ Scheduler"] --> PG
-    SCH -->|LPUSH| RQ[("🧱 Redis queue")]
-    RQ -->|BRPOP| W["👷 Worker"]
-    W --> DK["🐳 Temporary Docker container"]
-    DK -->|logs| PG
-    UI -. SSE live logs .-> API
+```text
+Taskflow UI (Next.js) ──► Go API ──► PostgreSQL
+                                        ▲
+Scheduler ──────────────────────────────┘
+    │
+    └── LPUSH ──► Redis queue ──► BRPOP ──► Worker
+                                              │
+                              Temporary Docker container
+                                              │
+                                  logs ──► PostgreSQL
+Taskflow UI ◄── SSE live logs ── Go API
 ```
 
 - **Execution:** a temporary Docker container per run, with memory, CPU, PID, and timeout limits, a read-only filesystem, and no network by default
@@ -159,31 +160,13 @@ A biomedical RAG assistant that extracts and synthesizes nutritional data from c
 
 ## 🧠 Areas of Interest
 
-```mermaid
-mindmap
-  root((My Universe 🚀))
-    Artificial Intelligence 🤖
-      Machine Learning
-      Deep Learning
-      NLP
-      RAG
-      LLM Agents 🧠
-        LangChain
-        LangGraph
-        MCP
-    Backend Engineering ⚙️
-      FastAPI
-      .NET
-      Go
-    Geospatial Systems 🗺️
-      Geocoding
-      Routing
-      TSP
-      Traffic Modeling
-    Industrial Systems 🏭
-      Telemetry
-      Downtime Detection
-```
+| Area | Focus |
+|------|-------|
+| 🤖 **Artificial Intelligence** | Machine Learning · Deep Learning · NLP · RAG |
+| 🧠 **LLM Agents** | LangChain · LangGraph · MCP · Multi-model routing |
+| ⚙️ **Backend Engineering** | FastAPI · .NET · Go · Microservices |
+| 🗺️ **Geospatial Systems** | Geocoding · PostGIS · Routing · TSP · Traffic Modeling |
+| 🏭 **Industrial Systems** | Telemetry ingestion · Edge devices · Downtime detection |
 
 ---
 
