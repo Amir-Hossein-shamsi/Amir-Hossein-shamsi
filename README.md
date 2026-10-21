@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:3b82f6,100:8b5cf6&height=230&section=header&text=AmirHossein%20Shamsi&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=AI%20Engineer%20%7C%20Backend%20Developer%20%7C%20Geospatial%20%26%20Industrial%20Systems&descAlignY=53&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:3b82f6,100:8b5cf6&height=230&section=header&text=AmirHossein%20Shamsi&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=AI%20Engineer%20%7C%20full-stack%20developer%20%7C%20Geospatial%20Systems&descAlignY=53&descSize=18" alt="AmirHossein Shamsi header" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=3B82F6&center=true&vCenter=true&width=650&lines=%E2%9C%A8+Building+intelligent+systems...;%F0%9F%A4%96+LLM+Agents+%26+MCP;%E2%9A%99%EF%B8%8F+Go+%26+Python+Backends;%F0%9F%97%BA%EF%B8%8F+Geospatial+%26+Routing;%F0%9F%8F%AD+Industrial+Telemetry" alt="Typing SVG" />
